@@ -1,0 +1,126 @@
+.header{
+    color: white;
+    margin-left: 1000px;
+    margin-top: 40px;
+    mar
+}
+
+.header a{
+    color: white; 
+    text-decoration: none;
+    margin-left: 20px;
+}
+.center{
+    color: white;
+    text-align: center;
+ margin-top: 250px;
+ font-size: 70px;
+}
+.Get_started{
+ margin-left: 650px;
+width: 150px;
+height: 50px;
+position: ;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    height:800px;
+    background-image: url(https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.certified{
+    display:flex;
+    margin-top: 50px;
+    font-size: 12px;
+    justify-content: center;
+    font-weight: 10;
+    color:rgb(44, 41, 41);
+    font-family: serif;
+}
+.Problems{
+    font-size: 50px;
+    text-align: center;
+}
+.border{
+    border:solid green;
+    height: 0px;
+    display:flex;
+    margin-top: 20px;
+    margin-left: 700PX;
+    margin-right: 700px;
+}
+.home{
+    display: flex;
+    flex-direction: row;
+}
+.web{
+    justify-content: left;
+    font-size: 30px;
+}
+.on{
+    justify-content: left;
+    font-size: 25px;
+    display: flex;
+    margin-top: 10px;
+}
+.part3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-top:50px;
+}
+.img{
+    font-size:30px;
+    text-align: center;
+}
+.wodpress{
+    font-size: 20px;
+    line-height:30px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.text{
+    font-size: 20px;
+}
+.button2{
+    display: flex;
+    flex-direction: row;
+    /* background-color: white;  */
+
+}
+.but2:hover{
+   background-color: green;
+}
+.but1{
+    height: 50px;
+    width: fit-content;
+}
+.but2{
+    height: 50px;
+    width:113px;
+    margin-left: 25px;
+    border-radius: 50px;
+}
+.last1{
+    margin-left: 550px;
+    margin-top: 100px;
+    color: white;
+}
+.last2{
+    background-image: url(lastpic.jpg);
+    height: 400px;
+    width: 1460px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 50px;
+}
